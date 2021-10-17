@@ -1,0 +1,40 @@
+[
+    {
+        "latitude":34.28,
+        "longitude":69.11,
+        "name":"Afghanistan"
+        
+    },
+    { 
+        "latitude":50.51,	
+        "longitude":4.21,
+        "name":"Belgium"
+        
+
+    },
+    {
+        "latitude":39.55,
+        "longitude":116.20,
+        "name":"China"
+        
+    },
+    {
+        "latitude":30.01,	
+        "longitude":31.14,
+        "name":"Egypt"
+        
+    },
+    {
+        "latitude":48.50,	
+        "longitude":2.20,
+        "name":"France"
+        
+    },
+    {
+        "latitude":52.30,
+        "longitude":13.25,
+        "name":"Germany"
+        
+    }
+
+]
